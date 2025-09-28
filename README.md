@@ -49,7 +49,10 @@ This project:
 ---
 ## Acknowledgements
 Supervisor: Dr. Muhammad Yaqoob
+
 University of Hertfordshire – School of Physics, Engineering and Computer Science
+
 Datasets: FairFace, UTKFace
+
 Tools: TensorFlow, Keras, SHAP, LIME, Grad-CAM
 
